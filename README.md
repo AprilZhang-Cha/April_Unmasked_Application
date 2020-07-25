@@ -11,7 +11,7 @@
 * did not test androids because I don't have an android phone and sadly I can't install a simulator due to hardware problems:( 
 * there's also a video demo.
 * also a screenshots with different iphone models.
-![Preivew](./IphoneTestings.png)
+![](./IPhoneTestings.png)
 
 
 ## Requirements
