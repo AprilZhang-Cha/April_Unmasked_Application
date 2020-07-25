@@ -1,6 +1,17 @@
-# react-native blog
+## accomplished:
+* all the requirements and the notes. Now it's an editable notes app.
+* can achieve delete, edit, create new note, and also can delete all notes.
+* Loads the initial posts.
+* does not edit a deleted post.
+* does not edit and create at the same time.
+* presentable stylin.
+* Responsive styling: I've tested on IPhone Pro Max, IPhone 11, and Iphone 8.
 
-You will be making a react-native app that simulates a blog on a single screen. The functionality is demonstrated in the included video, and additional notes and requirement specifications are listed below. If you have any questions, please reach out to help@unmaskedproject.com.
+## Sidenotes:
+* did not test androids because I don't have an android phone and sadly I can't install a simulator due to hardware problems:( 
+* there's also a video demo.
+* also a screenshots with different iphone models.
+
 
 ## Requirements
 1. The app must be written in react-native, preferably vanilla react-native, but if you are more comfortable with expo that's fine. The app should run on iOS and Android, but if you don't have an Apple computer just Android is fine.
